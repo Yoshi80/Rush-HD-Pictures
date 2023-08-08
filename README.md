@@ -8,7 +8,7 @@ This contains all the HD Card pictures for Rush Duels on edopro
 - Drag and drop the downloaded file into the "configs" folder
 - Restart edopro. 
 
-Do note that on first installation, images can take a while to download, so you won't see them immediately.
+Do note that on first installation, images can take a while to download, so you won't see them immediately. The game won't be usable during the duration of the installation.
 After that though, the game will auto-update with new cards so you do not need to download anymore.
 
 #### Credits
