@@ -3,8 +3,8 @@ This contains all the HD Card pictures for Rush Duels on edopro
 
 #### Install Links
 
--[Base Pack](https://www.mediafire.com/file/c3angk41lc70amr/user_configs.json/file)
--[Base Pack + ORR Extension](https://www.mediafire.com/file/ebzmqkv3vs9pc0y/user_configs.json/file)
+- [Base Pack](https://www.mediafire.com/file/c3angk41lc70amr/user_configs.json/file)
+- [Base Pack + ORR Extension](https://www.mediafire.com/file/ebzmqkv3vs9pc0y/user_configs.json/file)
 
 For more information on the "ORR Extension", check out [the ORR Extension repository](https://github.com/Yoshi80/Rush-HD-ORR-Extension).
 
