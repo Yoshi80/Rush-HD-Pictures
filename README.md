@@ -1,9 +1,16 @@
 # Rush-HD-Pictures
 This contains all the HD Card pictures for Rush Duels on edopro
 
+#### Install Links
+
+-[Base Pack](https://www.mediafire.com/file/c3angk41lc70amr/user_configs.json/file)
+-[Base Pack + ORR Extension](https://www.mediafire.com/file/ebzmqkv3vs9pc0y/user_configs.json/file)
+
+For more information on the "ORR Extension", check out [the ORR Extension repository](https://github.com/Yoshi80/Rush-HD-ORR-Extension).
+
 #### How to install ? 
 
-- Download the configs file by [clicking here](https://www.mediafire.com/file/c3angk41lc70amr/user_configs.json/file)
+- Download any configs file you want by clicking on of the links in the **Install Links** section. (There is no need to download both)
 - Go into your Project Ignis folder (If you did not change any setting when installing Edopro, it should be in your C:/ directory)
 - Drag and drop the downloaded file into the "configs" folder
 - Restart edopro. 
