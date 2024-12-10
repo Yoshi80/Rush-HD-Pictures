@@ -16,6 +16,7 @@ For more information on the "ORR Extension", check out [the ORR Extension reposi
 - Restart edopro. 
 
 Do note that on first installation, images can take a while to download, so you won't see them immediately. The game won't be usable during the duration of the installation.
+SSL Timeout errors are expected due to the high number of pictures to download. Simply restart your game until the errors stop showing up.
 After that though, the game will auto-update with new cards so you do not need to download anymore.
 
 #### Credits
