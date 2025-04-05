@@ -22,5 +22,5 @@ After that though, the game will auto-update with new cards so you do not need t
 #### Credits
 
 - [Masaki2709](https://www.deviantart.com/masaki2709) for making the cards all the way up to KP05
-- [KogaDiamond1080](https://www.deviantart.com/kogadiamond1080/art/Rush-Duel-Template-864204918) for the template used for all subsequent cards.
+- [KogaDiamond1080](https://www.deviantart.com/kogadiamond1080/art/Rush-Duel-Card-Template-Deluxe-1161169141) for the template used for all subsequent cards.
 
