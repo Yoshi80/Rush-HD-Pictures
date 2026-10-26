@@ -10,14 +10,26 @@ For more information on the "ORR Extension", check out [the ORR Extension reposi
 
 #### How to install ? 
 
-- Download any configs file you want by clicking on of the links in the **Install Links** section. (There is no need to download both)
-- Go into your Project Ignis folder (If you did not change any setting when installing Edopro, it should be in your C:/ directory)
-- Drag and drop the downloaded file into the "configs" folder
-- Restart edopro. 
+Because this pack has grown over 4 GB, EDOPro's built-in 32-bit downloader can fail on the very first download with an `"invalid pack file - overflow"` error. To avoid this, do the **initial download** using Git or GitHub Desktop (64-bit), and **EDOPro will automatically handle all future updates** on its own afterward!
 
-Do note that on first installation, images can take a while to download, so you won't see them immediately. The game won't be usable during the duration of the installation.
-SSL Timeout errors are expected due to the high number of pictures to download. Simply restart your game until the errors stop showing up.
-After that though, the game will auto-update with new cards so you do not need to download anymore.
+##### Step 1: Initial Download
+
+**— Using GitHub Desktop (No command line):**
+1. Download and open [GitHub Desktop](https://desktop.github.com/).
+2. Click **File** → **Clone repository...** → **URL** tab.
+3. In the **Repository URL** box, paste: `https://github.com/Yoshi80/Rush-HD-Pictures`
+4. In the **Local Path** box, set it to: `C:\ProjectIgnis\repositories\rush-hd` *(if you installed EDOPro somewhere else, point it to `repositories\rush-hd` inside your ProjectIgnis folder)*.
+5. Click **Clone** and wait for it to finish.
+
+*(Note: Do **not** use the "Download ZIP" button on the GitHub webpage, as that ZIP does not include the hidden `.git` folder needed for EDOPro to auto-update the pack).*
+
+##### Step 2: Enable Auto-Updates in EDOPro
+1. Download the config file you want from the **Install Links** section above (there is no need to download both).
+2. Go into your `ProjectIgnis` folder (by default `C:\ProjectIgnis`).
+3. Drag and drop the downloaded `user_configs.json` file into the **`config`** folder.
+4. Start (or restart) EDOPro.
+
+After this one-time setup, **the game will automatically update with new cards inside EDOPro**, so you will never need to manually download or run anything again!
 
 #### Credits
 
